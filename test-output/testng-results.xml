@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5196" started-at="2020-05-08T03:15:03Z" finished-at="2020-05-08T03:15:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5196" started-at="2020-05-08T03:15:03Z" finished-at="2020-05-08T03:15:08Z">
+      <class name="Examples">
+        <test-method status="PASS" signature="test_post()[pri:0, instance:Examples@5f375618]" name="test_post" duration-ms="5152" started-at="2020-05-07T23:15:03Z" finished-at="2020-05-07T23:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_post -->
+      </class> <!-- Examples -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
